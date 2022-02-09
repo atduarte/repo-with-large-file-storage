@@ -1,1 +1,1 @@
-image: workspace-mysql:latest
+image: gitpod/workspace-mysql:latest
