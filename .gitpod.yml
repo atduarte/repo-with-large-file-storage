@@ -1,3 +1,1 @@
-tasks:
-  - init: git lfs pull
-    command: top
+image: workspace-mysql:latest
