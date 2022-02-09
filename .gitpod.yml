@@ -1,0 +1,3 @@
+tasks:
+  - init: git lfs pull
+    command: top
